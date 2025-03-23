@@ -16560,3 +16560,23 @@ What specific statement x?
 What logical law to use?
 How to interpret the array elements (a1, b2, ...)?
 Without this information, the algorithm remains a general template.
+
+
+
+A->a1,a2
+B->b1,b2
+a1+b1->c1 -> c1.1,c1.2.
+a2+b2->c2 -> c2.1,c2.2.
+a3+b3->c3 -> c3.1,c3.2.
+
+c1.1+b1->a1.1            c2.1+b2->a2.1             
+c2.1+b1->a2.1          c2.2+b2->a2.2           
+c3.1+b1->a3.1          c3.3+b2->a2.3          
+
+c1.1+a1->b1.1            c2.1+a2->b2.1             
+c2.1+a1->b2.1          c2.2+a2->b2.2           
+c3.1+a1->b3.1          c3.3+a2->b2.3 
+
+1)a1.1+b1.1->C1
+2)an+bn->Cn
+C1+Cn->C         
