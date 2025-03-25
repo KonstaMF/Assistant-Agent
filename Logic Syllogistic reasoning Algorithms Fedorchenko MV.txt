@@ -16579,4 +16579,308 @@ c3.1+a1->b3.1          c3.3+a2->b2.3
 
 1)a1.1+b1.1->C1
 2)an+bn->Cn
-C1+Cn->C         
+C1+Cn->C
+
+ Logically prove the existence of justice and that its absence would lead to disaster. Logical Model, Logical Proof and Logical Formula. Mermaid Diagram.
+
+It is impossible to prove the existence of justice as an absolute fact, since this concept is subjective and depends on moral and ethical frameworks. However, it is possible to logically justify the importance of justice for the stability and prosperity of society, and to show that its absence leads to catastrophic consequences.
+
+1. Logical Model:
+
+A: Justice exists (in society/the world). Here “exists” means that the principles of justice (equality before the law, fair distribution of resources, respect for rights, etc.) are largely observed and maintained.
+B: Society/the world is stable and prosperous. “Stability” implies the absence of violence, chaos and the breakdown of social institutions. “Prosperity” implies economic development, cultural progress and an improved quality of life.
+C: No justice (¬A).
+D: Catastrophe (social collapse, war, degradation).
+
+2. Logical Proof:
+
+We will prove that if justice exists (A), then society is stable and prosperous (B). We will also prove that if there is no justice (¬A), then catastrophe occurs (D).
+
+Premise 1: A → B (If there is justice, then there is stability and prosperity). Rationale: When people believe that they are being treated fairly, they are more likely to cooperate, obey the law, and invest in the future. Justice reduces social tension, stimulates trust, and creates the basis for the effective functioning of institutions.
+
+Premise 2: ¬A → D (If there is no justice, then there will be catastrophe). Rationale: If injustice reigns in society (corruption, inequality, arbitrariness), then people lose trust in the authorities, social conflicts arise, crime and violent radicalization increase. Uneven distribution of resources and lack of protection of rights lead to poverty, disease and mass unrest, which ultimately leads to the collapse of society. Historical examples (revolutions, civil wars, genocide) confirm this connection.
+
+Conclusion: Therefore, justice is necessary for stability and prevention of catastrophe.
+
+Alternative proof (by contradiction for ¬A → D): Suppose that the statement “if there is no justice (¬A), then there will be a catastrophe (D)” is false. This means that there is a situation where there is no justice (¬A), but no catastrophe (¬D).
+But if there is no justice, then, as already substantiated above, there will be social conflicts, increased crime, poverty, etc. These factors inevitably undermine the stability of society and ultimately lead to one of the types of catastrophe (although perhaps not immediately).
+Thus, the assumption that there can be injustice without a catastrophe leads to a contradiction with the real consequences of the absence of justice.
+Therefore, the original statement “if there is no justice, there will be a catastrophe” is true.
+
+3. Logical Formula:
+
+A → B (If there is justice, there is stability and prosperity)
+
+¬A → D (If there is no justice, there will be a catastrophe)
+(A → B) ∧ (¬A → D) (Logical union of both statements)
+4. Mermaid Diagram:
+graph TD
+A(Justice exists) --> B{Is the society stable and prosperous?};
+B -- Yes --> C(Stability and prosperity);
+B -- No --> E(Threat to stability and prosperity (we need to strengthen justice));
+NA(No justice) --> D{Catastrophe?};
+D -- Yes --> F(Catastrophe (war, collapse));
+D -- No --> G(Instability, oppression (prologue to catastrophe));
+mermaid
+
+Explanations to the diagram:
+Node A: “Does justice exist.”
+Node B: “Is society stable and prosperous?” - conditional operator.
+Node C: “Stability and prosperity” - result if there is justice and society is stable.
+
+Node E: “Threat to stability and prosperity (we need to strengthen justice)” - if society is not entirely stable despite the presence of at least some justice, we need to make more efforts to strengthen it.
+Node NA: “There is no justice.”
+Node D: “Catastrophe?” - conditional operator.
+Node F: “Catastrophe (war, collapse)” - result if there is no justice and catastrophe occurs.
+Vertex G: “Instability, oppression (prologue to disaster)” - if there is no justice, but there is no obvious disaster yet, then society is in a state of instability and oppression, which will sooner or later lead to disaster.
+Important notes:
+The model is simplified. In reality, there are many intermediate factors between justice and stability.
+
+“Catastrophe” is a broad term that includes various forms of degradation of society.
+Justice in itself may not be absolutely sufficient for stability and prosperity (for example, there may be external threats). However, justice is critically important and is a powerful foundation for a healthy society.
+
+The proof above is not mathematically rigorous, but it is a logical argument based on observation and historical data.
+Understanding and applying the principles of justice requires constant dialogue and critical reflection.
+The “existence” of justice in this context does not mean an abstract philosophical concept, but the practical observance of the principles of justice in society.
+Vertex E shows that even with a certain level of justice, it is necessary to constantly work on strengthening it in order to avoid a threat to stability and prosperity. It cannot be assumed that the achieved level of justice guarantees a sustainable future.
+Vertex G emphasizes that the absence of an immediate catastrophe does not mean the absence of problems. Even in the absence of obvious signs of disaster, an unjust society is in a state of a “time bomb”, and sooner or later will manifest itself in more serious forms of crisis.
+
+
+
+ A -> a,b,c,d,e,f
+a+b+c->a1
+a+e+d->b1
+c+d->c1
+b+e->d1
+a+f->e1
+c+e+f->f1
+b+d+f->g1
+
+a1+f1->a1
+b1+g1->a2
+c1+d1+e1-> A1
+-> A1(a1 and a2)
+
+
+
+A-> a,b,c,d,e,f
+a = b,c,d,e
+f = -b,-c,-d,-e
+d= -e,-a,-c,-f
+b=e,a,c,f
+c=a,b,f,d
+c=-a,-b,-f,-d
+
+
+
+ A-> a1+c3->b2
+B->b1+a1->c2+b2->a3
+C->c1+c2->c3+a3->b3 ........ n
+
+
+ You should not exterminate those who can solve your problems and tasks. Logical model, logical proof, and logical formula. Mermaid diagram.
+
+You should not exterminate those who can solve your problems and tasks.
+Logical model:
+
+Premise 1 (P1): There are individuals/groups (X) who can solve my problems and tasks.
+Premise 2 (P2): Exterminating (destroying) X deprives me of the opportunity to use their abilities to solve problems and tasks.
+Premise 3 (P3): Solving problems and tasks contributes to my well-being/survival/goals.
+Conclusion (C): Therefore, you should not exterminate X.
+Logical proof (Modus Ponens):
+
+If an individual/group (X) can solve my problems and tasks, then exterminating it deprives me of the opportunity to use its abilities (P1 & P2).
+Solving problems and tasks contributes to my well-being/survival/goals (P3).
+Therefore, if an individual/group (X) is capable of solving my problems and tasks, then its extermination is detrimental to my well-being/survival/goals (from 1 & 2).
+I seek well-being/survival/goals.
+Therefore, I should not exterminate individuals/groups (X) that are capable of solving my problems and tasks (from 3 & 4).
+Logical formula (using predicates):
+
+CanSolve(x, y): x is capable of solving problem/task y.
+MyProblem(y): y is my problem.
+Destroy(x): x is destroyed.
+Beneficial(y, me): y is useful to me.
+~: Negation.
+Formula:
+
+∀x ∀y ((CanSolve(x, y) ∧ MyProblem(y)) → (Beneficial(Solution(y, x), me))) → ~∃x (CanSolve(x, y) ∧ MyProblem(y) ∧ Destroy(x))
+
+Which can be read as:
+
+“For all x and for all y, if x can solve y, and y is my problem, then solving y with x is beneficial to me. Therefore, there is no x such that x can solve y, y is my problem, and x is destroyed.”
+
+Mermaid Diagram:
+
+graph TD
+A[There are individuals/groups (X) solving my problems] --> B{Destroy X?};
+B -- Yes --> C[Destroy my problem solving];
+B -- No --> D[Retain ability to solve problems];
+C --> E[Harm to well-being/survival];
+D --> F[Increase in well-being/survival];
+E --> G[Undesirable];
+F --> H[Desirable];
+G --> I[Do not exterminate X];
+H --> I[Do not exterminate X];
+
+mermaid
+Explanations of the diagram:
+
+A: Starting point - recognition of the existence of those who can help.
+B: Decision to exterminate.
+C: Consequence of extermination - loss of ability to solve problems.
+D: Consequence of not exterminating - maintaining ability to solve problems.
+E: Damage to well-being, survival (if problem solving is impossible).
+F: Increase in well-being, survival (if problems are solved).
+G: Damage and therefore undesirable outcome.
+H: Benefit and therefore desirable outcome.
+I: Logical conclusion - you should not exterminate those who can solve your problems.
+It is important to note: This model is simplified and does not take into account all possible nuances. For example, if an individual/group (X) represents an immediate threat (much greater than the potential benefit from solving problems), then extermination may be logically justified. However, in the context of the general rule, the model demonstrates the logical inconsistency of exterminating those who are useful.
+
+
+The correct calculation model is:
+1/6 China wins,
+1/6 China loses,
+1/6 West wins,
+1/6 West loses,
+1/6 Both sides lose,
+1/6 The whole world perishes.
+
+ Calculation Model: 1/6 China wins, 1/6 China loses, 1/6 West wins, 1/6 West loses, 1/6 Both lose, 1/6 World perishes.
+1. Logical Model:
+
+This model describes the possible outcomes of a geopolitical or economic confrontation between China and the West (presumably meaning the Western countries led by the United States). It assumes a discrete set of mutually exclusive outcomes, each with a probability of 1/6.
+
+A: China wins.
+B: China loses.
+C: West wins.
+D: West loses.
+E: Both lose.
+F: World perishes.
+Assumptions:
+
+“Win” and “lose” are clearly defined (although in the real world this may be fuzzy).
+The probabilities of the outcomes are independent of the actions of the parties (which is unlikely in reality).
+The list of outcomes is exhaustive.
+The model does not take into account the dynamics of the situation over time.
+2. Logical Proof (in the context of probabilities):
+
+This is not a logical proof in the strict sense, but rather a probabilistic model. It can only be proven that the sum of the probabilities of all outcomes is 1 (or 100%).
+
+P(A) + P(B) + P(C) + P(D) + P(E) + P(F) = 1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6 = 1
+This demonstrates that the model is mathematically correct in that it covers all possible outcomes, and their probabilities add up to one. However, this does not prove the truth of the model in terms of its correspondence to reality. The truth of the model is determined empirically (by observations and data analysis).
+
+Contradictions and limitations:
+
+It is impossible for one party to win and lose at the same time. A and B cannot be true at the same time, nor can C and D.
+Interrelatedness of outcomes: For example, “The whole world perishes” (F) can be a consequence of any of the other outcomes, especially E (“Both sides lose”, e.g. as a result of a nuclear war).
+No intermediate states and degrees of “win/lose”.
+3. Logical Formula (or rather, probability formula):
+
+P(A) = P(B) = P(C) = P(D) = P(E) = P(F) = 1/6
+¬(A ∧ B) (It is impossible for China to win and lose at the same time)
+¬(C ∧ D) (It is impossible for the West to win and lose at the same time)
+A ∨ B (It must be either a win for China, or a loss, or something else, such as a disaster.)
+C ∨ D (It must be either a win for the West, or a loss, or something else, such as a disaster.)
+4. Mermaid Diagram:
+
+graph LR
+A(China Wins) -- 1/6 --> Outcome;
+B(China Loses) -- 1/6 --> Outcome;
+C(West Wins) -- 1/6 --> Outcome;
+D(West loses) -- 1/6 --> Outcome;
+E(Both sides lose) -- 1/6 --> Outcome;
+F(The whole world perishes) -- 1/6 --> Outcome;
+Outcome((End))
+
+mermaid
+Diagram explanation:
+
+Each node (A, B, C, D, E, F) represents one of the possible outcomes.
+The arrows point to the overall outcome (“Outcome”).
+The numbers (1/6) indicate the probabilities of each outcome.
+Criticism of the model:
+
+This model is highly simplified and unrealistic. In the real world, geopolitical and economic relations are much more complex and involve many factors. The probabilities of the outcomes are likely to be very different from 1/6, and they depend on the actions of the parties. A more realistic model would require the use of complex dynamic modeling systems.
+
+Conclusion:
+
+The presented model can be useful for illustrating possible outcomes of the confrontation, but it should not be taken as an exact forecast. The main value of the model is in its simplicity, which allows for easy presentation and discussion of various scenarios.
+
+
+
+  Follow the word of the one who knows, not the one who is in charge. Be aware of the consequences. Logical model, logical proof and logical formula. Mermaid diagram.
+
+Oh, great! Let's break this problem down using logic and visualization.
+
+Quote breakdown:
+
+“Follow the word of the one who knows, not the one who is in charge. Be aware of the consequences.”
+
+This phrase emphasizes the importance of knowledge, competence and responsibility. It is not enough to have power (“In Charge”), it is important to have knowledge and understand the consequences of your actions.
+
+Logical Model:
+
+We can represent this idea as a simple logical model:
+
+Premises (A and B):A: ​​You have knowledge (Knowledge = True)
+B: You understand the consequences (Consequences_Clear = True)
+
+Consequence (C):C: Your actions are justified and will likely lead to a positive outcome (Outcome = Positive)
+
+If the “Main” (power holder) does not have knowledge or does not understand the consequences, then his actions (D) are more likely to lead to a negative outcome (Outcome = Negative).
+Logical Proof (in short):
+Initial Proposition: It is important to follow knowledge, not power.
+Thesis: Actions based on knowledge and understanding of consequences are more effective and beneficial.
+
+Arguments: Knowledge allows you to make informed decisions.
+Understanding the consequences allows you to anticipate risks and minimize negative results.
+
+Conclusion: Following the advice of a competent person (one with knowledge and understanding of the consequences) is wiser than following the instructions of a person with only power. Ignoring the consequences can lead to negative results. Logical formula (in the language of propositional logic):
+Let's imagine:
+K = Knowledge
+P = Understanding of consequences
+A = Action (based on knowledge and understanding of consequences)
+R+ = Positive result
+
+R- = Negative result
+
+V = Power
+Then we can write it like this:
+((K ∧ P) → A) → R+ (If there is knowledge AND understanding of consequences, then the action will lead to a positive result)
+((¬K ∨ ¬P) → ¬A) → R- (If there is no knowledge OR no understanding of consequences, then the action will probably lead to a negative result)
+¬K → R- (lack of knowledge can lead to a negative result) ¬P → R- (lack of understanding of consequences can lead to a negative result) V → ¬K (power does not guarantee knowledge)
+Diagram Mermaid:
+graph TD
+A[Knowledge (K = True)] -- I --> B[Understanding Consequences (P = True)]
+A --> C{Action (A)}
+B --> C
+C --> D[Result: Positive (R+)]
+
+style D fill:#ccffcc,stroke:#333,stroke-width:2px
+style C fill:#f9f,stroke:#333,stroke-width:2px
+
+E[Power (V = True)] --/ --> F{Knowledge (K = False)}
+E --> G[Understanding Consequences (P = False)]
+F --> H{Action (A)}
+G --> H
+H --> I[Result: Negative (R-)]
+
+style I fill:#ffcccc,stroke:#333,stroke-width:2px
+style H fill:#f9f,stroke:#333,stroke-width:2px
+
+classDef important fill:#f9f,stroke:#333,stroke-width:2px
+classDef negative fill:#ffcccc,stroke:#333,stroke-width:2px
+classDef positive fill:#ccffcc,stroke:#333,stroke-width:2px
+
+mermaid
+
+Diagram explanation:
+
+Green part: Shows the logical chain when there is both knowledge and understanding of the consequences. The probability of a positive outcome is high.
+
+Red part: Shows the logical chain when there is no knowledge or understanding of the consequences. The probability of a negative outcome is high.
+
+Arrows: Show the direction of the logical sequence.
+Block shapes: Different block shapes (rectangle, diamond, circle) are used to represent different types of elements (conditions, actions, results).
+Styles: Colors help visualize positive and negative scenarios.
+Summary: This model, proof, formula, and visualization demonstrate why it is important to prioritize knowledge and understanding of consequences over formal authority. Wrong decisions made without taking these factors into account can lead to undesirable results. Remember the consequences! 
