@@ -16883,4 +16883,14 @@ Red part: Shows the logical chain when there is no knowledge or understanding of
 Arrows: Show the direction of the logical sequence.
 Block shapes: Different block shapes (rectangle, diamond, circle) are used to represent different types of elements (conditions, actions, results).
 Styles: Colors help visualize positive and negative scenarios.
-Summary: This model, proof, formula, and visualization demonstrate why it is important to prioritize knowledge and understanding of consequences over formal authority. Wrong decisions made without taking these factors into account can lead to undesirable results. Remember the consequences! 
+Summary: This model, proof, formula, and visualization demonstrate why it is important to prioritize knowledge and understanding of consequences over formal authority. Wrong decisions made without taking these factors into account can lead to undesirable results. Remember the consequences!
+
+
+
+[34, 67, 12, 89, 45, 23]
+[91, 15, 78, 56, 32, 88]
+[7, 49, 63, 21, 95, 41]
+[82, 36, 14, 70, 58, 27]
+[19, 93, 44, 66, 8, 75]
+[52, 30, 97, 11, 83, 39]
+If you knew the measure and stopped, then the Future would be yours, but as it is - +3. XP
